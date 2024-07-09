@@ -1,0 +1,41 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.all-menu {
+  padding: 50px 400px;
+}
+.all-menu .title {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #AF7EE9;
+  padding: 20px 30px;
+}
+.all-menu .title .menu {
+  font-size: 40px;
+  color: white;
+}
+.all-menu .title .text1 {
+  text-align: center;
+}
+.all-menu .title .text1 h1 {
+  text-align: center;
+  color: white;
+}
+
+.all-input {
+  padding: 50px 0px;
+}
+.all-input #todo-input {
+  padding: 20px 100px;
+}
+.all-input .add {
+  color: white;
+  padding: 20px;
+  border: 1px solid black;
+  background-color: #AF7EE9;
+  color: white;
+}
